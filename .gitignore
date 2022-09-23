@@ -21,3 +21,7 @@ project/db-data
 broker-service/brokerApp
 logger-service/loggerServiceApp
 authentication-service/authApp
+
+listener-service/listenerApp
+
+mail-service/mailerApp
