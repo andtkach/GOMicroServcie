@@ -14,7 +14,10 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-project/db-data
-broker-service/brokerApp
-
 .DS_Store
+
+project/db-data
+
+broker-service/brokerApp
+logger-service/loggerServiceApp
+authentication-service/authApp
