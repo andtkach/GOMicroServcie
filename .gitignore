@@ -16,3 +16,5 @@
 
 project/db-data
 broker-service/brokerApp
+
+.DS_Store
